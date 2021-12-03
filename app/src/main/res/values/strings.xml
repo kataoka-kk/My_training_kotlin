@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">My_training_kotlin</string>
     <string name="lottery_text">おみくじ</string>
+    <string name="lottery_button_text">おみくじを引く</string>
 </resources>
